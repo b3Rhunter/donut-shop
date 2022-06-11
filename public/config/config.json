@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0x7265361f6aaC1F137FEE94e136f4fEcE45662927",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7265361f6aac1f137fee94e136f4fece45662927",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Donut Shop",
+  "SYMBOL": "DONUT",
+  "MAX_SUPPLY": 133,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gmn-donut-shop",
+  "SHOW_BACKGROUND": true
+}
